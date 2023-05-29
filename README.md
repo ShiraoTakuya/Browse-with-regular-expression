@@ -7,12 +7,12 @@
 
 実行結果(Google検索にアクセスしてタイトルを抽出する設定)
 
-![cap1](https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap1.png)
+<img src="https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap1.png" width="25%">
 
 実行結果(Google検索でGoogleと検索した結果から検索結果のURLとタイトルを抽出する設定)
 
-![cap2](https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap2.png)
- 
+<img src="https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap2.png" width="25%">
+
 # Usage
 
 以下の手順を行う
