@@ -1,7 +1,9 @@
 ﻿# Browse with regular expression
 
 指定したURL先のソースコードをダウンロードして、指定した正規表現と一致する文字列を抽出するアプリです。
+
 更新通知機能、ループ機能付きです。
+
 https://play.google.com/store/apps/details?id=com.browsewithregularexpression.regularexpressionbrowsing1&hl=ja
 
 # 実行例
@@ -22,7 +24,7 @@ Google検索でGoogleと検索した結果から検索結果のURLとタイト�
 * アプリをインストールして起動する
 * Title欄に任意の文字列を入れる
 
-　入力した文字列は通知の際に表示されます
+　入力した文字列は通知の際に表示される
 * URL欄に監視したいURLを入れる
 * ソースコードから抽出したい文字列を正規表現で指定する
 
@@ -35,7 +37,7 @@ Google検索でGoogleと検索した結果から検索結果のURLとタイト�
 * Update Notificationボタン: 結果に変更があったときに通知されます
 * Error Notificationボタン: Errorが発生したときに通知されます
 
-ソースコードを見たい場合は"Open source"をクリックすると表示されます。
+ソースコードを見たい場合は、結果が表示された後に"Open source"をクリックすると表示されます。
 
 # Note
  
