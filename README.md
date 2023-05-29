@@ -7,16 +7,17 @@
 
 実行結果(Google検索にアクセスしてタイトルを抽出する設定)
 
-![cap1](https://raw.githubusercontent.com/ShiraoTakuya/Csharp_Repositories/main/AllCalculationPattern/cap.PNG)
+![cap1](https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap1.png)
 
 実行結果(Google検索でGoogleと検索した結果から検索結果のURLとタイトルを抽出する設定)
 
-![cap2](https://raw.githubusercontent.com/ShiraoTakuya/Csharp_Repositories/main/AllCalculationPattern/cap.PNG)
+![cap2](https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap2.png)
  
 # Usage
 
 以下の手順を行う
 * アプリをインストールして起動する
+
 　https://play.google.com/store/apps/details?id=com.browsewithregularexpression.regularexpressionbrowsing1&hl=ja
 * Title欄に任意の文字列を入れる(通知の際に表示されます)
 * URL欄に監視したいURLを入れる
@@ -26,6 +27,7 @@
 * 結果が表示される
 
 必要に応じて、Repeatボタン、Update Notificationボタン、Error NotificationボタンをON/OFFしてください。
+
 ソースコードを見たい場合は"Open source"をクリックすると表示されます。
 
 # Note
