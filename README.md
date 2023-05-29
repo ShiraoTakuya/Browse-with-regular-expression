@@ -8,13 +8,13 @@ https://play.google.com/store/apps/details?id=com.browsewithregularexpression.re
 
 # 実行例
 
-実行結果
+実行結果1
 
 Google検索にアクセスしてタイトルを抽出
 
 <img src="https://raw.githubusercontent.com/ShiraoTakuya/Browse-with-regular-expression/main/cap1.png" width="25%">
 
-実行結果
+実行結果2
 
 Google検索でGoogleと検索した結果から検索結果のURLとタイトルを抽出
 
